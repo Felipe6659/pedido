@@ -1,0 +1,21 @@
+.btn-excluir{
+    /* color: red; */
+    background-color: red;
+}
+
+.realcar-qr:hover {
+    color:red;
+    /* margin-top: 10px; */
+}
+
+.inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+
+* { color: rgba(0, 0, 0, 0.48); text-decoration: none;}
